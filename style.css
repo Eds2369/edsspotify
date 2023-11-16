@@ -47,7 +47,7 @@ body {
 
 .container {
     display: flex;
-    max-width: 1400px;
+    max-width: 1800px;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -263,9 +263,9 @@ header {
     padding: 0 20px;
 }
 
-.banner-img {
+/* .banner-img {
     max-width: 1100px;
-}
+} */
 
 .banner-img img {
     width: 100%;
